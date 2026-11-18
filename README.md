@@ -1,3 +1,10 @@
+# 最新发布版：知到简洁 GUI
+
+Windows 图形版 [v0.2.0](https://github.com/kongfukeyong/zhidao-shuake-script/releases/tag/v0.2.0) 已发布。下载 Release 附件 `ZHS-Desktop-simplified-v2.6.4-portable.zip`，完整解压后运行 `ZHS-Desktop.exe`。首页显示扫码登录、课程清单和“开始学习”。本包不含账号或 API Key。
+
+此仓库当前代码页保留旧版命令行源码；**简洁 GUI 对应的完整修改版源码**是同一 Release 中的 `ZHS-Desktop-simplified-v2.6.4-source.zip`。GitHub 自动生成的 `Source code (zip)` 并不对应 GUI。新 GUI 基于 Yongs-PRTS/fuckZHS v2.6.4 的 MIT 许可源码。
+
+---
 # 知道刷课脚本 · AI 答题版
 
 > 基于 [VermiIIi0n/fuckZHS](https://github.com/VermiIIi0n/fuckZHS)（MIT License）改造。
